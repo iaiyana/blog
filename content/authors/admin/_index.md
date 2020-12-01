@@ -63,4 +63,4 @@ user_groups:
 - Visitors
 ---
 
-Aiyana Ivanova is a student of applied mathematics and informatics at the RUDN. His research interests include math statistics and probability theory. 
+Aiyana Ivanova is a student of applied mathematics and informatics at the RUDN University. Her research interests include math statistics and probability theory. 
