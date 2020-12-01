@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Aiiana Ivanova
+title: Aiyana Ivanova
 
 # Is this the primary user of the site?
 superuser: true
@@ -63,4 +63,4 @@ user_groups:
 - Visitors
 ---
 
-Aiiana Ivanova is a student of applied mathematics and informatics at the RUDN. His research interests include math statistics and probability theory. 
+Aiyana Ivanova is a student of applied mathematics and informatics at the RUDN. His research interests include math statistics and probability theory. 
