@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Finding finite groups with an almost large degree irreducible character in GAP"
+title: "Finding finite groups with an almost large degree irreducible character in GAPl"
 authors: []
-date: 2020-12-16T04:19:38+09:00
+date: 2020-12-16T04:44:08+09:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-12-16T04:19:38+09:00
+publishDate: 2020-4-20T04:44:08+09:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -33,9 +33,10 @@ featured: false
 # links:
 # - name: Follow
 #   url: https://twitter.com
+#   icon_pack: fab
 #   icon: twitter
 
-url_pdf: /Users/i_aiyana/Desktop/work/blog/git/content/publication/my-publication/my-publication.pdf
+url_pdf: /Users/i_aiyana/Desktop/work/blog/git/content/publication/publ/publ.pdf
 url_code:
 url_dataset:
 url_poster:
