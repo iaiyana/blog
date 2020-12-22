@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Finding finite groups with an almost large degree irreducible character in GAP"
 publication_short: ""
 
-abstract: "The paper examines the search for  finite groups of order greater than three with a degree of irreducible character that $$2Θ(1)^2 <|G|≤3Θ(1)^2$$ using the system GAP. "
+abstract: "The paper examines the search for  finite groups of order greater than three with a degree of irreducible character that 2Θ(1)^2<|G|≤3Θ(1)^2 using the system GAP. "
 
 # Summary. An optional shortened abstract.
 summary: ""
