@@ -9,12 +9,12 @@ categories: mathematics, programming, personal site
 date: 2020-12-16T03:47:14+09:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/iaiyana/iaiyana.github.io"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
+image: 
   caption: ""
   focal_point: ""
   preview_only: false
