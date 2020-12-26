@@ -8,9 +8,9 @@
   # contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
 # Uncomment the lines below to configure your website in a second language.
-#[ru]
-#  languageCode = "ru-ru"
-#  contentDir = "content/ru"
+[ru]
+  languageCode = "ru"
+  contentDir = "content/ru"
 #  title = "Russian website title..."
 #  [ru.params]
 #    description = "Site description in Russian..."
